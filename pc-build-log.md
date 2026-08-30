@@ -1,5 +1,5 @@
 # Section : 2
-
+Build finshed Dec 26 2025
 | Component | Part | Reasoning |
 |-----------|------|-----------|
 |CPU| Ryzen 7 5800XT | best price/performance at the time for my budget|
